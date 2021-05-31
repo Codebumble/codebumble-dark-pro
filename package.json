@@ -2,15 +2,26 @@
     "name": "codebumble-dark-pro",
     "displayName": "Codebumble Dark Pro",
     "description": "Codebumble Dark Pro Theme for professional developers",
-    "author": {"name": "Md. Saifur Rahman"},
-    "keywords": ["codebumble", "dark","pro","theme","italic","dark theme","stylish theme", "mordern"],
+    "author": {
+        "name": "Md. Saifur Rahman"
+    },
+    "keywords": [
+        "codebumble",
+        "dark",
+        "pro",
+        "theme",
+        "italic",
+        "dark theme",
+        "stylish theme",
+        "mordern"
+    ],
     "publisher": "Codebumble",
     "repository": {
-        "type":"git",
-        "url":"https://github.com/codebumble/codebumble-dark-pro"
+        "type": "git",
+        "url": "https://github.com/codebumble/codebumble-dark-pro"
     },
     "icon": "codebumble-dark-pro.png",
-    "version": "1.3.6",
+    "version": "1.4.0",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -18,13 +29,13 @@
         "Themes"
     ],
     "prettier": {
-		"singleQuote": true,
-		"semi": false
-	},
+        "singleQuote": true,
+        "semi": false
+    },
     "extensionKind": [
-		"ui",
-		"workspace"
-	],
+        "ui",
+        "workspace"
+    ],
     "contributes": {
         "themes": [
             {
