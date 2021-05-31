@@ -9,6 +9,7 @@
         "type":"git",
         "url":"https://github.com/codebumble/codebumble-dark-pro"
     },
+    "icon": "codebumble-dark-pro.png",
     "version": "1.3.6",
     "engines": {
         "vscode": "^1.56.0"
@@ -16,6 +17,14 @@
     "categories": [
         "Themes"
     ],
+    "prettier": {
+		"singleQuote": true,
+		"semi": false
+	},
+    "extensionKind": [
+		"ui",
+		"workspace"
+	],
     "contributes": {
         "themes": [
             {
