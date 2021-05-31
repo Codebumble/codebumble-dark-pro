@@ -39,7 +39,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Codebumble Dark",
+                "label": "Codebumble Dark Pro",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Codebumble Dark-color-theme.json"
             }
