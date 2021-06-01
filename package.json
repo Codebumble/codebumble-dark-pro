@@ -36,13 +36,16 @@
         "ui",
         "workspace"
     ],
+    "capabilities": {
+        "untrustedWorkspaces": {
+            "supported": true
+        }
+    },
     "contributes": {
-        "themes": [
-            {
-                "label": "Codebumble Dark Pro",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Codebumble Dark-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Codebumble Dark Pro",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Codebumble Dark-color-theme.json"
+        }]
     }
 }

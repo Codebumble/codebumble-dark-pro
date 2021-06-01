@@ -1,30 +1,31 @@
 # [Codebumble Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 
 Codebumble Dark Pro theme, Best choice of professional Developers. [themes](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs) for VS Code!
+### Tested with HTML, CSS, SCSS, PHP, Javascript, MarkDown, ini etc.
+> ## If you found any irrelevance syntax color, then please open an issue on [github](https://github.com/Code-Bumble/codebumble-dark-pro/issues). we'll patch bug and release new update ASAP.
 
-<!-- ## SCREENSHOT
-![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/normal.png)
+## SCREENSHOTS
+### HTML
+![ScreenShot](https://i.imgur.com/YPLf9Xi.png)
 
-### Italic
-![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/italic.png)
+### CSS
+![ScreenShot](https://i.imgur.com/0oCpHjn.png)
 
-### Default theme
-![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/editor1.png)
+### JS
+![ScreenShot](https://i.imgur.com/JJAGFcs.png)
 
-### Flat theme 
-![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/editorflat.png)
+### Json
+![ScreenShot](https://i.imgur.com/eLoHLtG.png)
 
-### Terminal
-![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/terminal.png)
-
-### Setting
-![ScreenShot](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/setting.png)
-
-### Built in themes
-![built-in themes](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/built-in-themes.png) -->
+### PHP
+![ScreenShot](https://i.imgur.com/TBZs2go.png)
 
 # Want Italic Font?
-We've made all essential attributes, variables, names, classes, id's etc. italic. you have nothing left to do here. Enjoy! 😉
+> We've made all essential scopes italic. you have nothing left to do here. Enjoy! 😉
+> ## *for best looking and feel use [Cascadia Code PL](https://github.com/microsoft/cascadia-code) font.*
+
+# Do not Want Italic Font?
+> Sorry! Normal font version is not available yet. But we're promising that we'll publish new normal font version soon. Stay tuned.
 
 
 For more information, check the official documentation,
@@ -32,22 +33,19 @@ For more information, check the official documentation,
 [Theme Color](https://code.visualstudio.com/docs/getstarted/themes)
 
 
-
+#
 ## CHANGELOG
 
 [CHANGELOG.MD](https://github.com/codebumble/codebumble-dark-pro/blob/master/CHANGELOG.md)
 
+#
 ## Wanna contribute?
 
 This document
-([https://github.com/codebumble/codebumble-dark-pro](https://github.com/codebumble/codebumble-dark-pro))
+([https://github.com/Code-Bumble/codebumble-dark-pro](https://github.com/Code-Bumble/codebumble-dark-pro))
 includes instructions on how to install and edit the theme.
 
-
-<!-- ### Contributors
-
-Here is our contributors who helped to develop this theme
-[![Contributors](https://opencollective.com/OneDark-Pro/contributors.svg?width=890)](https://github.com/Binaryify/OneDark-Pro/graphs/contributors) -->
+#
 
 ## Sponsors
 

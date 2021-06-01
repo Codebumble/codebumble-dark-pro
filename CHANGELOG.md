@@ -1,9 +1,31 @@
 # Change Log
 
-All notable changes to the "codebumble-dark" extension will be documented in this file.
+- Version 1.9.0 (02 June, 2021)
+	1. New Scopes added (Java, Rust, Python, C++)
+	2. Some scopes forground updated.
+	3. MarkDown updated.
+	4. Screenshot Added to Extension file.
+	5. Bug fixed.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Version 1.8.0 (01 June, 2021)
+	1. Some scopes forground updated to dark.
+	2. Bug Fixed.
 
-## [Unreleased]
+- Version 1.7.0 (01 June, 2021)
+	1. Few irrelevance color scheme updated.
+	2. Added some new scopes.
 
-- Initial release
+- Version 1.6.0 (01 June, 2021)
+	1. Some irrelevance color scheme changed.
+	2. Added some scopes.
+
+- Version 1.5.0 (01 June, 2021)
+	1. MarkDown updated.
+	2. Irrelevance color scheme changed.
+
+- Version 1.4.0 (01 June, 2021)
+	1. Theme Icon, MarkDown updated.
+	2. Some irrelevance color scheme changed.
+
+- Version 1.3.6 (01 June, 2021)
+	1. Initial release
