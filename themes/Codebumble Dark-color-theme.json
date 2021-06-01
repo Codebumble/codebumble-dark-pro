@@ -122,7 +122,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#82AAFF"
 			}
 		},
 		{
@@ -353,7 +353,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#68474c"
+				"foreground": "#62e884"
 			}
 		},
 		{
@@ -540,7 +540,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#583c40"
+				"foreground": "#dbbcc0"
 			}
 		},
 		{
