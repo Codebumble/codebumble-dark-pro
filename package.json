@@ -13,7 +13,17 @@
         "italic",
         "dark theme",
         "stylish theme",
-        "mordern"
+        "mordern",
+        "theme",
+        "cyberpunk",
+        "cyber",
+        "developer",
+        "friendly",
+        "best",
+        "lite",
+        "coder",
+        "color",
+        "black"
     ],
     "publisher": "Codebumble",
     "repository": {
@@ -21,9 +31,9 @@
         "url": "https://github.com/Code-Bumble/codebumble-dark-pro"
     },
     "icon": "codebumble-dark-pro.png",
-    "version": "1.8.0",
+    "version": "1.12.0",
     "engines": {
-        "vscode": "^1.56.0"
+        "vscode": "^1.57.1"
     },
     "categories": [
         "Themes"

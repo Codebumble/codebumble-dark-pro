@@ -77,7 +77,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic bold underline",
+				"fontStyle": "italic bold",
 				"foreground": "#5c6370"
 			}
 		},

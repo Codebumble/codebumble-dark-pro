@@ -1,5 +1,10 @@
 # Change Log
 
+- Version 1.12.0 (07 July, 2021)
+	1. Underline removed for comments.
+	2. Brand new logo.
+	3. Bug fixed.
+
 - Version 1.9.0 (02 June, 2021)
 	1. New Scopes added (Java, Rust, Python, C++)
 	2. Some scopes forground updated.
