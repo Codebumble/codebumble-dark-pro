@@ -1132,7 +1132,7 @@
 		"titleBar.inactiveBackground": "#21252b",
 		"titleBar.inactiveForeground": "#6b717d",
 		"walkThrough.embeddedEditorBackground": "#2e3440",
-		"welcomePage.buttonHoverBackground": "#404754",
+		//"welcomePage.buttonHoverBackground": "#404754",
 		"input.foreground": "#e6e6e1",
 		"input.border": "#191A21",
 		"input.placeholderForeground": "#7b7f8b",

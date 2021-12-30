@@ -23,7 +23,10 @@
         "lite",
         "coder",
         "color",
-        "black"
+        "black",
+        "laravel",
+        "env syntax",
+        "syntax"
     ],
     "publisher": "Codebumble",
     "repository": {
@@ -31,9 +34,9 @@
         "url": "https://github.com/Code-Bumble/codebumble-dark-pro"
     },
     "icon": "codebumble-dark-pro.png",
-    "version": "1.12.0",
+    "version": "1.14.0",
     "engines": {
-        "vscode": "^1.57.1"
+        "vscode": "^1.63.2"
     },
     "categories": [
         "Themes"
@@ -52,10 +55,58 @@
         }
     },
     "contributes": {
-        "themes": [{
-            "label": "Codebumble Dark Pro",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Codebumble Dark-color-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "Codebumble Dark Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Codebumble Dark-color-theme.json"
+            }
+        ],
+        "languages": [
+			{
+				"id": "blade",
+				"aliases": [
+					"blade",
+					"blade"
+				],
+				"extensions": [
+					".blade.php"
+				],
+				"configuration": "./laravel-conf.json"
+			},
+            {
+				"id": "env",
+				"aliases": [
+					"env",
+					"env"
+				],
+				"extensions": [
+					".env",
+					".development",
+					".local",
+					".test",
+					".production"
+				],
+				"configuration": "./language-conf.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "blade",
+				"scopeName": "text.html.php.blade",
+				"path": "./syntaxes/blade.syntax.json"
+			},
+            {
+				"language": "env",
+				"scopeName": ".env",
+				"path": "./syntaxes/env.syntax.json"
+			}
+		],
+		"snippets": [
+			{
+				"language": "blade",
+				"path": "./syntaxes/laravel.snippets.json"
+			}
+		]
     }
 }
