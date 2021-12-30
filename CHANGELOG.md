@@ -1,6 +1,6 @@
 # Change Log
 
-- Version 1.14.0 (31 Dec, 2021)
+- Version 2.0 (31 Dec, 2021)
 	1. Laravel Syntax Highlight added.
 	2. .Env, .Test, .local, .development, .production Syntax added.
 	3. Brand new logo.
