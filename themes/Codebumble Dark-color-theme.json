@@ -216,6 +216,25 @@
 			}
 		},
 		{
+			"name": "Blade Source",
+			"scope": [
+				"source.php",
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Blade function",
+			"scope": [
+				"begin.bracket.round.blade.php",
+				"end.bracket.round.blade.php"
+			],
+			"settings": {
+				"foreground": "#89DDFF"
+			}
+		},
+		{
 			"name": "[VSCODE-CUSTOM] Markdown headings",
 			"scope": "entity.name.section.markdown",
 			"settings": {
@@ -273,9 +292,7 @@
 			"name": "Function, Special Method",
 			"scope": [
 				"entity.name.function",
-				"meta.function-call",
 				"variable.function",
-				"support.function",
 				"keyword.other.special-method"
 			],
 			"settings": {
@@ -283,6 +300,26 @@
 				"foreground": "#82AAFF"
 			}
 		},
+		{
+			"name": "Support Function",
+			"scope": [
+				"support.function",
+				"meta.function-call",
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		// {
+		// 	"name": "Support Function",
+		// 	"scope": [
+		// 		"support.function",
+		// 		"meta.function-call",
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#82AAFF"
+		// 	}
+		// },
 		{
 			"name": "Blockquotes (prose)",
 			"scope": [

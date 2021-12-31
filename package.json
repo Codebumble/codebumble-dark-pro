@@ -34,7 +34,7 @@
         "url": "https://github.com/Code-Bumble/codebumble-dark-pro"
     },
     "icon": "codebumble-dark-pro.png",
-    "version": "3.0.0",
+    "version": "3.1.0",
     "engines": {
         "vscode": "^1.63.2"
     },
@@ -86,20 +86,19 @@
                     ".local",
                     ".test",
                     ".production"
-                ],
-                "configuration": "./language-conf.json"
+                ]
             }
         ],
         "grammars": [
             {
                 "language": "blade",
                 "scopeName": "text.html.php.blade",
-                "path": "./syntaxes/blade.syntax.json"
+                "path": "./syntaxes/blade.syntax.tmLanguage.json"
             },
             {
                 "language": "env",
                 "scopeName": ".env",
-                "path": "./syntaxes/env.syntax.json"
+                "path": "./syntaxes/env.syntax.tmLanguage.json"
             }
         ],
         "snippets": [

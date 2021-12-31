@@ -4,7 +4,7 @@ Codebumble Dark Pro theme, Best choice of professional Developers. [themes](http
 ### Tested with HTML, CSS, SCSS, PHP, Javascript, MarkDown, ini etc.
 > ## If you found any irrelevance syntax color, then please open an issue on [github](https://github.com/Code-Bumble/codebumble-dark-pro/issues). we'll patch bug and release new update ASAP.
 
-> ## Laravel, .env files Syntax highlight Added.
+> ## Note: Laravel & .env files Syntax highlight Added.
 
 ## SCREENSHOTS
 ### HTML

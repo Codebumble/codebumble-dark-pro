@@ -1,9 +1,10 @@
 # Change Log
 
-- Version 3.0 (31 Dec, 2021)
+- Version 3.1.0 (31 Dec, 2021)
 	1. Laravel Syntax Highlight added.
 	2. .Env, .Test, .local, .development, .production Syntax added.
 	3. Brand new logo.
+	4. Bug Fixes.
 
 - Version 1.12.0 (07 July, 2021)
 	1. Underline removed for comments.
