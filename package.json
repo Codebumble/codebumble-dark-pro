@@ -34,7 +34,7 @@
         "url": "https://github.com/Code-Bumble/codebumble-dark-pro"
     },
     "icon": "codebumble-dark-pro.png",
-    "version": "3.2.0",
+    "version": "3.3.0",
     "engines": {
         "vscode": "^1.63.2"
     },
