@@ -1021,7 +1021,7 @@
 		},
 		{
 			"name": "Highlight modifier",
-			"scope": ["keyword.other.new.php"],
+			"scope": ["keyword.other.new.php", "storage.type.php"],
 			"settings": {
 				"foreground": "#89DDFF",
 				"fontStyle": "italic"
@@ -1037,7 +1037,9 @@
 				"keyword.control.switch.php",
 				"keyword.control.default.php",
 				"keyword.other.namespace.php",
-				"keyword.control.return.php"
+				"keyword.control.return.php",
+				"keyword.control.import.include.php"
+				
 			],
 			"settings": {
 				"fontStyle": "italic",
