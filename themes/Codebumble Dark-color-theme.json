@@ -293,7 +293,8 @@
 			"scope": [
 				"entity.name.function",
 				"variable.function",
-				"keyword.other.special-method"
+				"keyword.other.special-method",
+				"storage.type.class.php"
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -986,7 +987,7 @@
 		{
 			"name": "Markdown - Separator",
 			"scope": [
-				"meta.separator"
+				"meta.separator",
 			],
 			"settings": {
 				"fontStyle": "bold",
@@ -1004,13 +1005,47 @@
 		},
 		{
 			"name": "Highlight static functions",
-			"scope": ["meta.function.php storage.modifier.php", "storage.type.function.php"],
+			"scope": ["meta.function.php", "storage.type.function.php"],
 			"settings": {
-				"foreground": "#e6e6e1",
+				"foreground": "#cffff1",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Highlight modifier",
+			"scope": ["storage.modifier.php", "entity.name.function.php"],
+			"settings": {
+				"foreground": "#89DDFF",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Highlight modifier",
+			"scope": ["keyword.other.new.php"],
+			"settings": {
+				"foreground": "#89DDFF",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Highlight controls",
+			"scope": [
+				"keyword.control.if.php",
+				"keyword.control.else.php",
+				"keyword.control.elseif.php",
+				"keyword.control.case.php",
+				"keyword.control.switch.php",
+				"keyword.control.default.php",
+				"keyword.other.namespace.php",
+				"keyword.control.return.php"
+			],
+			"settings": {
+				"fontStyle": "italic",
 			}
 		},
 
 
+		
 
 
 	],

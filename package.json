@@ -107,5 +107,8 @@
                 "path": "./syntaxes/laravel.snippets.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^2.7.0"
     }
 }
