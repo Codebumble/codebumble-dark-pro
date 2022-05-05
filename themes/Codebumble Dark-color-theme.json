@@ -1060,6 +1060,17 @@
 				"foreground": "#caa1ff"
 			}
 		},
+		{
+			"name": "html tag",
+			"scope": [
+				"text.html.php"
+
+			],
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#ABB2BF"
+			}
+		},
 
 
 
