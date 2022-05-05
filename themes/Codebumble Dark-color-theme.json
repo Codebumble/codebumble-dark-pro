@@ -74,10 +74,12 @@
 			"name": "Comment",
 			"scope": [
 				"comment",
-				"punctuation.definition.comment"
+				"punctuation.definition.comment",
+				"comment.block.documentation.phpdoc.php",
+				"keyword.other.type.php",
 			],
 			"settings": {
-				"fontStyle": "italic bold",
+				"fontStyle": "italic",
 				"foreground": "#5c6370"
 			}
 		},
@@ -1005,7 +1007,7 @@
 		},
 		{
 			"name": "Highlight static functions",
-			"scope": ["meta.function.php", "storage.type.function.php"],
+			"scope": ["meta.function.php", "storage.type.function.php", "storage.type.trait.php"],
 			"settings": {
 				"foreground": "#cffff1",
 				"fontStyle": "italic"
@@ -1013,7 +1015,7 @@
 		},
 		{
 			"name": "Highlight modifier",
-			"scope": ["storage.modifier.php", "entity.name.function.php"],
+			"scope": ["storage.modifier.php", "entity.name.function.php","keyword.other.sql" ],
 			"settings": {
 				"foreground": "#89DDFF",
 				"fontStyle": ""
@@ -1021,7 +1023,7 @@
 		},
 		{
 			"name": "Highlight modifier",
-			"scope": ["keyword.other.new.php", "storage.type.php"],
+			"scope": ["keyword.other.new.php", "storage.type.php",""],
 			"settings": {
 				"foreground": "#89DDFF",
 				"fontStyle": "italic"
@@ -1038,16 +1040,29 @@
 				"keyword.control.default.php",
 				"keyword.other.namespace.php",
 				"keyword.control.return.php",
-				"keyword.control.import.include.php"
-				
+				"keyword.control.import.include.php",
+
+
 			],
 			"settings": {
 				"fontStyle": "italic",
 			}
 		},
+		{
+			"name": "php constructor",
+			"scope": [
+				"support.function.construct.php",
+				"keyword.other.DDL.create.II.sql"
+
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#caa1ff"
+			}
+		},
 
 
-		
+
 
 
 	],
