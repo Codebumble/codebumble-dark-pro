@@ -1,0 +1,120 @@
+{
+  "name": "codebumble-dark-pro",
+  "displayName": "Codebumble Dark Pro",
+  "description": "Codebumble Dark Pro Theme for professional developers",
+  "license": "MIT",
+  "icon": "codebumble-dark-pro.png",
+  "publisher": "Codebumble",
+  "version": "4.0.0",
+  "galleryBanner": {
+    "color": "#1b1f23",
+    "theme": "dark"
+  },
+  "author": {
+    "name": "Md. Saifur Rahman"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "engines": {
+    "vscode": "^1.86.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Codebumble/codebumble-dark-pro"
+  },
+  "bugs": {
+    "url": "https://github.com/Codebumble/codebumble-dark-pro/issues"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "semi": false
+  },
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "capabilities": {
+    "untrustedWorkspaces": {
+      "supported": true
+    }
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codebumble Dark Pro 2024",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Codebumble Dark-color-theme-v2.json"
+      },
+      {
+        "label": "Codebumble Dark Pro 2024 Regular",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Codebumble Dark-color-theme-v2-normal.json"
+      },
+      {
+        "label": "Codebumble Soft Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Codebumble Dark-color-theme-v2-soft.json"
+      },
+      {
+        "label": "Codebumble Soft Dark Regular",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Codebumble Dark-color-theme-v2-soft-normal.json"
+      },
+      {
+        "label": "Codebumble Dark Pro 2022",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Codebumble Dark-color-theme-v1.json"
+      }
+    ],
+    "languages": [
+      {
+        "id": "env",
+        "aliases": [
+          "env",
+          "env"
+        ],
+        "extensions": [
+          ".env",
+          ".development",
+          ".local",
+          ".test",
+          ".production"
+        ]
+      }
+    ],
+    "grammars": [
+      {
+        "language": "env",
+        "scopeName": ".env",
+        "path": "./syntaxes/env.syntax.tmLanguage.json"
+      }
+    ]
+  },
+  "keywords": [
+    "codebumble",
+    "dark",
+    "pro",
+    "theme",
+    "italic",
+    "dark theme",
+    "stylish theme",
+    "mordern",
+    "theme",
+    "cyberpunk",
+    "cyber",
+    "developer",
+    "friendly",
+    "best",
+    "lite",
+    "coder",
+    "color",
+    "black",
+    "laravel",
+    "env syntax",
+    "syntax"
+  ],
+  "dependencies": {
+    "@vscode/vsce": "^2.23.0"
+  }
+}
