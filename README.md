@@ -1,56 +1,38 @@
 # [Codebumble Dark Pro](https://marketplace.visualstudio.com/items?itemName=Codebumble.codebumble-dark-pro)
 
+## Yay! 4 variants of this theme has been released! 🎉 
+
 Codebumble Dark Pro theme, Best choice of professional Developers. [themes](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs) for VS Code!
 
-### Tested with HTML, CSS, SCSS, PHP, Laravel, Javascript, Vue.js, MarkDown, ini etc.
+### Tested with HTML, CSS, SCSS, PHP, Laravel, Javascript, Vue.js, React.Js, Java, C, C++, C#, Python, MarkDown, ini etc.
 
 > ## If you found any irrelevance syntax color, then please open an issue on [github](https://github.com/Codebumble/codebumble-dark-pro/issues). we'll patch bug and release new update ASAP.
 
-> ## Note: Laravel & .env files Syntax highlight Added.
+> ## Note: .env files Syntax highlight Added.
 
 ## SCREENSHOTS
 
-### HTML
+![ScreenShot](https://raw.githubusercontent.com/Codebumble/codebumble-dark-pro/main/preview.gif)
 
-![ScreenShot](https://i.imgur.com/YPLf9Xi.png)
 
-### CSS
-
-![ScreenShot](https://i.imgur.com/0oCpHjn.png)
-
-### JS
-
-![ScreenShot](https://i.imgur.com/JJAGFcs.png)
-
-### Json
-
-![ScreenShot](https://i.imgur.com/eLoHLtG.png)
-
-### PHP
-
-![ScreenShot](https://i.imgur.com/TBZs2go.png)
-
-# Want Italic Font?
+## Want Fancy Fonts?
 
 > We've made all essential scopes italic. you have nothing left to do here. Enjoy! 😉
 >
-> ## _for best looking and feel use [Cascadia Code PL](https://github.com/microsoft/cascadia-code) font._
+> ## _For best looking and feel use [Cascadia Code PL](https://github.com/microsoft/cascadia-code) or [Fira Code](https://github.com/tonsky/FiraCode/releases) font. Make Sure you enabled font ligatures._
+> ```"editor.fontLigatures": "'calt', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'ss09', 'ss10', 'ss19', 'ss20', 'zero', 'onum'",```
 
-# Do not Want Italic Font?
+## Do not Want Italic Font?
 
-> Sorry! Normal font version is not available yet. But we're promising that we'll publish new normal font version soon. Stay tuned.
+> # 🎉 Hurrah! We released two regular variant. Check'em out. 🎊
 
 For more information, check the official documentation,
 [Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference) and
 [Theme Color](https://code.visualstudio.com/docs/getstarted/themes)
 
-#
-
 ## CHANGELOG
 
 [CHANGELOG.MD](https://github.com/codebumble/codebumble-dark-pro/blob/master/CHANGELOG.md)
-
-#
 
 ## Wanna contribute?
 
