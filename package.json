@@ -5,7 +5,7 @@
   "license": "MIT",
   "icon": "codebumble-dark-pro.png",
   "publisher": "Codebumble",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "galleryBanner": {
     "color": "#1b1f23",
     "theme": "dark"
@@ -17,7 +17,7 @@
     "Themes"
   ],
   "engines": {
-    "vscode": "^1.86.1"
+    "vscode": "^1.103.1"
   },
   "repository": {
     "type": "git",
@@ -112,9 +112,29 @@
     "black",
     "laravel",
     "env syntax",
-    "syntax"
+    "syntax",
+    "2026",
+    "env",
+    "environment",
+    "nuxt",
+    "next",
+    "vue",
+    "react",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "json",
+    "php",
+    "python",
+    "ruby",
+    "go",
+    "java",
+    "csharp",
+    "cpp",
+    "rust"
   ],
   "dependencies": {
-    "@vscode/vsce": "^2.23.0"
+    "@vscode/vsce": "^3.7.1"
   }
 }

@@ -1,5 +1,9 @@
 # Change Log
 
+- Version 4.0.1 (26 Jan, 2026)
+  1. Minimum supported engine updated (1.103.1 - latest)
+  2. Dependencies updated
+
 - Version 4.0.0 (11 Feb, 2024)
 
   1. New Syntax Highlighting color schemes
